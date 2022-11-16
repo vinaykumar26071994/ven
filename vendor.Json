@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "f03a7e91-e92f-48ff-a59c-a10d5b1b7f67",
+    "FirstName": "g",
+    "LastName": "f",
+    "Company": "d",
+    "PhoneNumber": "d",
+    "City": "d",
+    "Country": "d",
+    "AddedBy": "d",
+    "AddedOn": "2022-11-10T00:00:00+05:30",
+    "IsInUse": false
+  },
+  {
+    "Id": "b99f6417-46d5-4732-8859-73a6642d6bb4",
+    "FirstName": "vishara",
+    "LastName": "pawar",
+    "Company": "isro",
+    "PhoneNumber": "9573527739",
+    "City": "delhi",
+    "Country": "india",
+    "AddedBy": "vinay kumar",
+    "AddedOn": "2022-11-10T00:00:00+05:30",
+    "IsInUse": false
+  }
+]
